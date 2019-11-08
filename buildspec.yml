@@ -9,6 +9,11 @@ artifacts:
     -  README.md
     -  application.py
     -  requirements.txt
+    -  files/CCC.pickle
+    -  files/Fraud_detection.pickle
+    -  files/forecast_sales.pickle
+    -  files/senti_predi.pickle
+    -  files/train.csv
 eb_codebuild_settings:
   CodeBuildServiceRole: AWSCodePipelineServiceRole-us-east-1-dashpipe
   ComputeType: BUILD_GENERAL1_SMALL
