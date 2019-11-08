@@ -9,6 +9,7 @@ artifacts:
     -  README.md
     -  application.py
     -  requirements.txt
+    -  files
     -  files/CCC.pickle
     -  files/Fraud_detection.pickle
     -  files/forecast_sales.pickle
