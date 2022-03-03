@@ -18,7 +18,7 @@ charts_type = ['3D scatter','bar graph', 'pie chart','line graph','scatter']
 two_dim_charts = ['3D scatter','bar graph','line graph','scatter']
 
 USERNAME_PASSWORD_PAIRS=[
-    ['ajay','prodevans'],['priyag','prodevans'],['alekhya','prodevans'],['iventura','prodevans']
+    ['examplea','exampleb'],['examplec','exampled'],['examplee','examplepd'],['examplef','exampleg']
     ]
 app=dash.Dash(
      __name__, external_stylesheets=["https://codepen.io/chriddyp/pen/bWLwgP.css"]
